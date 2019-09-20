@@ -1,4 +1,4 @@
-+++
++++?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @title[Sidebar + Heading]
 
 
@@ -24,7 +24,7 @@
 ---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 
 @snap[north h3-white]
-### And now for some discussion…
+#### And now for some discussion…
 @snapend
  
 

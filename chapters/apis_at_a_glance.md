@@ -36,7 +36,7 @@
 - Austrian Prosopographical Information System
 - funded by the "Nationalstiftung"
 - project end March 2020
-- Goal is to semantically enrich ÖBL biographies >> prosopographical data
+- Goal is to semantically enrich ÖBL biographies @css[fragment](\>\> prosopographical data)
 - collaborative project between 3 ÖAW institutes
 @olend
 @snapend

@@ -15,10 +15,6 @@ Vienna, Austria, 2019
 ---?include=chapters/apis_at_a_glance.md
 ---?include=chapters/apis_technologies_datamodel.md
 ---?include=chapters/conclusions_translation.md
----?include=chapters/apis_generic_api.md
----?include=chapters/apis_api_serializations.md
----?include=chapters/histogis.md
----?include=chapters/apis_relation_extraction.md
 
 ---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 
@@ -28,8 +24,18 @@ Vienna, Austria, 2019
 
 [https://apis.acdh-dev.oeaw.ac.at](https://apis.acdh-dev.oeaw.ac.at)
 
+[https://apis-hub.acdh-dev.oeaw.ac.at](https://apis-hub.acdh-dev.oeaw.ac.at/networks)
+
 [https://histogis.acdh.oeaw.ac.at](https://histogis.acdh.oeaw.ac.at)
 
 [github.com/acdh-oeaw/apis-core](https://github.com/acdh-oeaw/apis-core)
 
 [gitpitch.com/sennierer/apis-translation-9-19/master](https://gitpitch.com/sennierer/apis-translation-9-19/master)
+
+---?include=chapters/apis_generic_api.md
+---?include=chapters/apis_api_serializations.md
+---?include=chapters/histogis.md
+---?include=chapters/apis_relation_extraction.md
+
+---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
+

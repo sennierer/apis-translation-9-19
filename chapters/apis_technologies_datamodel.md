@@ -48,8 +48,7 @@
 	+ GND, Geonames as examples
 - annotation of full texts:
 	+ offset annotations
-	+ stored in projects
-	+ \>\> multiple annotations possible
+	+ stored in projects @css[fragment](\>\> multiple annotations possible)
 @ulend
 @snapend
 

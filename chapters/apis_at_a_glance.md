@@ -2,7 +2,7 @@
 @title[Sidebar + Heading]
 
 @snap[north h3-white]
-### 1. OBL
+### 1. ÖBL
 @snapend
 
 @snap[north-east]
@@ -12,10 +12,9 @@
 @snap[south span-100]
 @ol[list-boxed-bullets custom-spaced-bullets]
 - Started in 1955
-- 13 volumes / 66 issues published so far
+- 15 volumes / 68 issues published so far
 - ~19.000 biographies
-- of people who had an impact on
-- Austrian soil,
+- of people who had an impact on "Austrian" soil,
 - were born after 1815 and
 - died before 1955
 @olend
@@ -37,7 +36,7 @@
 - Austrian Prosopographical Information System
 - funded by the "Nationalstiftung"
 - project end March 2020
-- Goal is to semantically enrich ÖBL biographies
+- Goal is to semantically enrich ÖBL biographies >> prosopographical data
 - collaborative project between 3 ÖAW institutes
 @olend
 @snapend
@@ -72,10 +71,10 @@
 
 @snap[south span-100]
 @ol[list-boxed-bullets list-spaced-bullets]
-- Django (Python Web Development Framework
+- Django (Python Web Development Framework)
 - MySQL (Database)
 - Stanbol (Reference resources)
-- spacy and Gate for NLP
+- spaCy and Gate for NLP
 @olend
 @snapend
 

@@ -32,7 +32,7 @@ logo-position : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "APIS - A(ustrian) Prosopographical Information System,  Aix-en-Provence / France / 5-2019"
+footnote : "APIS - A(ustrian) Prosopographical Information System,  Summerschool Translation History, Vienna 2019"
 
 #
 # Highlight (Code) Setting
@@ -58,6 +58,6 @@ transition : none
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "Relation extraction in APIS"
-description : "Relation extraction developed in the context of the APIS project."
+title : "APIS - A(ustrian) Prosopographical Information System"
+description : "APIS - A(ustrian) Prosopographical Information System"
 thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg

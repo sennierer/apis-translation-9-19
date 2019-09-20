@@ -10,8 +10,11 @@ A(ustrian) Prosopographical Information System
 Vienna, Austria, 2019
 @snapend
 
+
+---?include=chapters/prosop_intro.md
 ---?include=chapters/apis_at_a_glance.md
 ---?include=chapters/apis_technologies_datamodel.md
+---?include=chapters/conclusions_translation.md
 ---?include=chapters/apis_generic_api.md
 ---?include=chapters/apis_api_serializations.md
 ---?include=chapters/histogis.md
@@ -29,4 +32,4 @@ Vienna, Austria, 2019
 
 [github.com/acdh-oeaw/apis-core](https://github.com/acdh-oeaw/apis-core)
 
-[gitpitch.com/sennierer/apis-aix-2019/master](https://gitpitch.com/sennierer/apis-translation-9-19/master)
+[gitpitch.com/sennierer/apis-translation-9-19/master](https://gitpitch.com/sennierer/apis-translation-9-19/master)

@@ -49,7 +49,7 @@
 - annotation of full texts:
 	+ offset annotations
 	+ stored in projects
-	+ >> multiple annotations possible
+	+ \>\> multiple annotations possible
 @ulend
 @snapend
 

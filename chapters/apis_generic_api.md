@@ -12,9 +12,9 @@
 @snap[south span-100]
 @ul[list-spaced-bullets]
 - Hyperlinked API for retrieval of atomic data
-- >> e.g. network visualization
+- \>\> e.g. network visualization
 - 2nd API for retrieval of every information on one entity
-- >> used for serializing data to various formats
+- \>\> used for serializing data to various formats
 @ulend
 @snapend
 

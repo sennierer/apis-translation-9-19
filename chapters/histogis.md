@@ -9,7 +9,7 @@
 @ul[list-spaced-bullets text-07]
 - Problem: No accurate gazeteers for historic places
 - But: Several for nowadays
-- >>> HistoGIS:
+- \>\>\> HistoGIS:
 	+ Temporized Historic shapefiles
 	+ Hierarchy computed on the go
 	+ Reuse and collect existing data

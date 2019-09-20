@@ -12,4 +12,8 @@
   font-size: 0.4em !important;
 }
 
+.reveal h4 {
+	color: white;
+}
+
 .custom-spaced-bullets li { margin-bottom: 0.4em; }

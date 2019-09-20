@@ -54,9 +54,9 @@
 
 @snap[south span-100]
 @ol[list-boxed-bullets list-spaced-bullets]
-- simple data model >> serialize later in various formats/data models
-- rock solid and widely used software stack >> less bugs, better documented, easier to develop
-- hybrid approach >> researchers and tools use the same webtool/database
+- simple data model \>\> serialize later in various formats/data models
+- rock solid and widely used software stack \>\> less bugs, better documented, easier to develop
+- hybrid approach \>\> researchers and tools use the same webtool/database
 @olend
 @snapend
 

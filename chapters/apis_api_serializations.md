@@ -1,6 +1,6 @@
 +++
 @snap[midpoint span-100]
-## On top of base serialization, renderers to various formats/ontologies
+### On top of base serialization, renderers to various formats/ontologies
 @snapend
 
 ---
@@ -14,7 +14,7 @@
 ---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 
 @snap[north h3-white]
-### More To Come
+#### More To Come
 @snapend
 
 @snap[midpoint span-100]
@@ -27,7 +27,7 @@
 
 ---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 @snap[north span-100 h3-white]
-### Basic CIDOC CRM Serialization
+#### Basic CIDOC CRM Serialization
 @snapend
 
 @snap[south span-100]
@@ -36,8 +36,8 @@
 - LOD Links
 - Place of Birth
 - Date of Birth
-- >> more planned
-- >> ACDHs omnipod
+- \>\> more planned
+- \>\> ACDHs omnipod
 @ulend
 @snapend
 
@@ -53,7 +53,7 @@
 ---?color=linear-gradient(180deg, #5289F7 18%, white 18%)
 
 @snap[north span-100 h3-white]
-### ProsopogrAPhI Serialization
+#### ProsopogrAPhI Serialization
 @snapend
 
 @snap[south span-100]

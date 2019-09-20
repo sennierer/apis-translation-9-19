@@ -19,9 +19,9 @@
 
 @snap[midpoint span-100]
 @ul[list-spaced-bullets]
-- Links to vocabularie entries
+- Links to vocabulary entries
 - Annotation of texts
-- ...
+- …
 @ulend
 @snapend
 

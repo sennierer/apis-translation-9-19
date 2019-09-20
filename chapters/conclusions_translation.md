@@ -7,7 +7,7 @@
 @snapend
 
 @snap[north-east]
-@css[title-note text-white](When researching peoples history)
+@css[title-note text-white](When researching people’s history)
 @snapend
 
 @ol[list-spaced-bullets list-boxed-bullets text-07]
@@ -26,7 +26,7 @@
 @snap[north h3-white]
 #### And now for some discussion…
 @snapend
- 
+
 
 @ol[list-spaced-bullets list-boxed-bullets text-08]
 - connecting the dots?

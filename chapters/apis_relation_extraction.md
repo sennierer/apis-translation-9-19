@@ -6,7 +6,7 @@
 
 @snap[south span-100]
 @ul[list-spaced-bullets text-08]
-- take advantage of biographies nature
+- take advantage of biographies’ nature
 - researchers annotate subset of biographies
 - train model on these annotations
 - use the model to annotate more data

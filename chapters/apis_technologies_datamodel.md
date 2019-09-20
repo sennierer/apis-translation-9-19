@@ -41,11 +41,11 @@
 @snap[south span-100]
 @ul[text-09]
 - list views for entities and relations
-- detail and create views fo entities
+- detail and create views for entities
 - autocompletes for entities:
 	+ query internal and external resources in one autocomplete
 	+ fetch metadata on save and create new objects
-	+ GND, Geonames as examples
+	+ GND, Geonames as example reference resources/authority files
 - annotation of full texts:
 	+ offset annotations
 	+ stored in projects @css[fragment](\>\> multiple annotations possible)
@@ -57,7 +57,7 @@
 ![Edit view APIS](images/apis_screenshots_person_edit.png)
 @snapend
 @snap[north-east title-note text-gray]
-APIS at a glance IV - edit view
+APIS at a glance IV – edit view
 @snapend
 
 +++
@@ -65,7 +65,7 @@ APIS at a glance IV - edit view
 ![Edit view APIS II](images/apis_screenshots_person_edit_II.png)
 @snapend
 @snap[north-east title-note text-gray]
-APIS at a glance V - edit view
+APIS at a glance V – edit view
 @snapend
 
 +++
@@ -73,7 +73,7 @@ APIS at a glance V - edit view
 ![Edit view APIS II](images/apis_annotations_I.png)
 @snapend
 @snap[north-east title-note text-gray]
-APIS at a glance VI - edit view, annotations
+APIS at a glance VI – edit view, annotations
 @snapend
 
 +++
@@ -81,7 +81,7 @@ APIS at a glance VI - edit view, annotations
 ![Edit view APIS II](images/apis_annotations_II.png)
 @snapend
 @snap[north-east title-note text-gray]
-APIS at a glance VII - edit view, annotations menu
+APIS at a glance VII – edit view, annotations menu
 @snapend
 
 +++
@@ -89,5 +89,5 @@ APIS at a glance VII - edit view, annotations menu
 ![Networkviz](images/network_viz.png)
 @snapend
 @snap[north-east title-note text-gray]
-APIS at a glance VIII - network viz
+APIS at a glance VIII – network viz
 @snapend
